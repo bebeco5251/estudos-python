@@ -1,0 +1,6 @@
+1- Definir as funções que serão necessárias 
+	-1 func que escolhe uma palavra aleatória de uma lista 
+	-2 func que verifica as letras adivinhadas da palavra
+		|
+		|_ vai receber dois paramentos a palavra sorteada e a letra para verificar 
+		   se essa letra existe na palavra
