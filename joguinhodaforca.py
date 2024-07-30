@@ -19,3 +19,4 @@ def verificar(palavra,letra):
 
 verificar(palavraaleatoria,"a")
 
+#joia
